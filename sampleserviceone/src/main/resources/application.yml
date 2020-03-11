@@ -1,0 +1,5 @@
+server:
+  port: 8081
+secrets:
+  secret1: Secret One from yaml
+  secret2: Secret Two from yaml
